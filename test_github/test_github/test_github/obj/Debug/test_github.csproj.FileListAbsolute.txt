@@ -1,0 +1,7 @@
+D:\File_DownLoad\my_first_project\my_first_project\test_github\test_github\test_github\bin\Debug\test_github.exe.config
+D:\File_DownLoad\my_first_project\my_first_project\test_github\test_github\test_github\bin\Debug\test_github.exe
+D:\File_DownLoad\my_first_project\my_first_project\test_github\test_github\test_github\bin\Debug\test_github.pdb
+D:\File_DownLoad\my_first_project\my_first_project\test_github\test_github\test_github\obj\Debug\test_github.csprojResolveAssemblyReference.cache
+D:\File_DownLoad\my_first_project\my_first_project\test_github\test_github\test_github\obj\Debug\test_github.csproj.CoreCompileInputs.cache
+D:\File_DownLoad\my_first_project\my_first_project\test_github\test_github\test_github\obj\Debug\test_github.exe
+D:\File_DownLoad\my_first_project\my_first_project\test_github\test_github\test_github\obj\Debug\test_github.pdb
